@@ -1,9 +1,10 @@
 justest
 =======
 
-Stripped-down Javascript test framework from Google Closure.
+Stripped-down Javascript test framework from Google's
+[Closure Library](https://developers.google.com/closure/library/).
 
-Extracted just the parts of Google Closure necessary to run basic unit
+Extracted just the parts of Closure Library necessary to run basic unit
 tests, as requested by @birdsarah, and put them into a minimal
 infrastructure with a sample .html file (runner.html) and test library
 (tests.js).
